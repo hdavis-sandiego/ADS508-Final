@@ -1,9 +1,10 @@
 # Generated S3 bucket data
 data
 
-#Generated HTML and pdf files
+#Generated HTML checkpoint and pdf files
 *.html
 *.pdf
+.ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
