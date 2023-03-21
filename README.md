@@ -7,3 +7,5 @@ Mobility Survey Data Source: https://data.bts.gov/Research-and-Statistics/Trips-
 Disposable Income Data Source: https://fred.stlouisfed.org/series/DSPIC96
 
 AirBnB Data Source: @Ivan to add
+
+S3 Bucket Link: https://s3.console.aws.amazon.com/s3/buckets/aurelia-resort-data
